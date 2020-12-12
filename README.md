@@ -22,7 +22,8 @@ $ node test.js
 | [4. call-by-this](./call-by-this) | go 中通过 `this` 获取 js 的当前上下文 |
 | [5. call-function](./call-function) | go 中调用 js `方法` |
 | [6. change-object](./change-object) | go 中修改 js `Object` |
+| [7. change-array](./change-array) | go 中修改 js `Array` |
 
 ---
 
-@echosoar License MIT
+©  [LICENSE](./LICENSE) MIT by [echosoar](https://github.com/echosoar)
