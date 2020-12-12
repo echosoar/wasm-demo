@@ -16,3 +16,4 @@
 
 wasm_exec.js
 *.wasm
+.vscode
