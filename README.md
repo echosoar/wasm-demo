@@ -23,4 +23,6 @@ $ node test.js
 | [5. call-function](./call-function) | go 中调用 js `方法` |
 | [6. change-object](./change-object) | go 中修改 js `Object` |
 
+---
+
 @echosoar License MIT
