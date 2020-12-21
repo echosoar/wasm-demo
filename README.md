@@ -23,6 +23,7 @@ $ node test.js
 | [5. call-function](./call-function) | go 中调用 js `方法` |
 | [6. change-object](./change-object) | go 中修改 js `Object` |
 | [7. change-array](./change-array) | go 中修改 js `Array` |
+| [8. new-class](./new-class) | go 中实例化 js 的 `class` |
 
 ---
 
