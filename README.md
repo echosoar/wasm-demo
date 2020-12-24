@@ -24,6 +24,7 @@ $ node test.js
 | [6. change-object](./change-object) | go 中修改 js `Object` |
 | [7. change-array](./change-array) | go 中修改 js `Array` |
 | [8. new-class](./new-class) | go 中实例化 js 的 `class` |
+| [9. types-transform](./types-transform) | go 与 js 的 `10+` 种类型相互转换 |
 
 ---
 
